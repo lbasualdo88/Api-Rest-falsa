@@ -1,0 +1,79 @@
+{
+  "pelotas": [
+    {
+      "name": "NASSAU",
+      "precio": "$2300",
+      "imagen": "../img/productos/pelota-1.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam ",
+      "id": 0
+    },
+    {
+      "name": "WILSON",
+      "precio": "$3400",
+      "imagen": "/img/productos/pelota-2.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam ",
+      "id": 1
+    },
+    {
+      "name": "FUTBOL BLANCA",
+      "precio": "$4500",
+      "imagen": "././img/productos/pelota-3.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam ",
+      "id": 2
+    },
+    {
+      "name": "ADIDAS",
+      "precio": "$2500",
+      "imagen": "img/productos/pelota-4.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam ",
+      "id": 3
+    },
+    {
+      "name": "PILETA",
+      "precio": "$5500",
+      "imagen": "img/productos/pelota-5.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam ",
+      "id": 4
+    },
+    {
+      "name": "BASQUET",
+      "precio": "$5500",
+      "imagen": "img/productos/pelota-7.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam ",
+      "id": 6
+    },
+    {
+      "name": "FUTBOL AZUL",
+      "precio": "$9500",
+      "imagen": "img/productos/pelota-8.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam ",
+      "id": 7
+    },
+    {
+      "name": "FUTBOL CELESTE",
+      "precio": "$1500",
+      "imagen": "img/productos/pelota-9.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam ",
+      "id": 8
+    },
+    {
+      "name": "MIKASA",
+      "precio": "$2500",
+      "imagen": "img/productos/pelota-10.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam ",
+      "id": 9
+    },
+    {
+      "name": "FUTBOL CLASICA",
+      "precio": "$546",
+      "imagen": "img/productos/pelota-6.jpeg",
+      "descripcion": "lorem lorem lorem",
+      "id": 10
+    }
+  ],
+  "perfil":
+  {
+    "email": "correo@correo.com",
+    "password": "Alura2023"
+  }
+}
